@@ -1,14 +1,14 @@
 h1{
-	background: url(/home/sushmita/Documents/stack.png) no-repeat;
-	text-indent: -9999px;
+	background: no-repeat;
+	text-indent: 1px;
 	width: 127px;
 	height:127px;
 
 
 }
-.navbar{
+.nav{
 	
-	
+	margin-top: -157px;
 }
 li {
     background-color: #dddddd;
